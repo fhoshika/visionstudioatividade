@@ -1,14 +1,14 @@
 {
-  "apim-request-id": "84e502bd-895f-41d2-828f-104fb10321e3",
-  "content-length": "174",
+  "apim-request-id": "38ab7587-567e-4bdb-b4aa-8e7bd9a65968",
+  "content-length": "163",
   "content-type": "application/json; charset=utf-8",
   "modelVersion": "2023-10-01",
   "captionResult": {
-    "text": "a woman standing next to a statue of a dinosaur",
-    "confidence": 0.8421037197113037
+    "text": "a bunch of red fruit with black eyes",
+    "confidence": 0.6927095055580139
   },
   "metadata": {
-    "width": 698,
-    "height": 698
+    "width": 720,
+    "height": 955
   }
 }
